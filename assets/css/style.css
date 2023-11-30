@@ -1,16 +1,17 @@
-
+/**
+* Template Name: Vesperr
+* Updated: Sep 18 2023 with Bootstrap v5.3.2
+* Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 @font-face {
   font-family: Noor;
-
-/*   enable this */
-/*   src: url("/assets/Noor/Noor.ttf"); */
+  src: url("/assets/Noor/Noor.ttf");
 }
 
-
-/*---------------------------
------------------------------------
+/*--------------------------------------------------------------
 # General
-
 --------------------------------------------------------------*/
 body {
   font-family: "Noor";
@@ -461,7 +462,7 @@ h6 {
 
 @media (max-width: 991px) {
   #hero {
-    height: 140vh;
+    height: fit-content;
   }
 
   #hero .animated {
@@ -523,7 +524,7 @@ h6 {
   }
   .myMainFont{
 
-    margin-top: 460px;
+    margin-top: 260px;
 
   }
 
@@ -535,7 +536,7 @@ h6 {
 
   .phoneImage{
     max-width: 250px;
-    max-height: 350px;
+    max-height: 400px;
     
   }
 
