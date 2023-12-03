@@ -516,8 +516,8 @@ h6 {
 
   #hero {
     height: fit-content;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: -350px;
+    margin-bottom: -450px;
   }
 
   #hero .Phone-Image img {
