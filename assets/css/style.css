@@ -456,7 +456,9 @@ h6 {
 
 @media (max-width: 991px) {
   #hero {
-    height: fit-content;
+       height: fit-content;
+    margin-top: -50px;
+    margin-bottom: -500px;
   }
 
   #hero .animated {
@@ -486,7 +488,10 @@ h6 {
 
 @media (max-width: 768px) {
   #hero {
-    margin-top: 20px;
+       height: fit-content;
+    margin-top: -50px;
+    margin-bottom: -550px;
+
 
   }
 
