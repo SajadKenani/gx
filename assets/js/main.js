@@ -232,6 +232,11 @@
 
   })
 
+    document.querySelector(".myCard-2").addEventListener("click", function(){
+    window.location.assign("https://quiraqguide.com/");
+
+  })
+
   /**
    * Initiate Pure Counter 
    */
